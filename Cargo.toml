@@ -1,0 +1,9 @@
+[package]
+name = "autokill"
+version = "0.1.0"
+authors = ["Felix Stegmaier <stegmaier.felix@gmail.com>"]
+
+[dependencies]
+psutil = "1.1.1"
+structopt = "0.2.8"
+sysconf = "0.3.2"
